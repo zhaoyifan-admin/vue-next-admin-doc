@@ -1,0 +1,1 @@
+import{_ as n,y as s,x as a,W as t}from"./plugin-vue_export-helper.a7b2d798.js";const g='{"title":"prettier","description":"","frontmatter":{},"relativePath":"home/prettier/index.md","lastUpdated":1642591961000}',e={},p=t("",9),o=[p];function c(r,l,i,u,k,m){return a(),s("div",null,o)}var _=n(e,[["render",c]]);export{g as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as e,y as t,x as i,W as l}from"./plugin-vue_export-helper.a7b2d798.js";const f='{"title":"LICENSE","description":"","frontmatter":{},"relativePath":"home/index.md","lastUpdated":1642591961000}',a={},o=l("",6),s=[o];function n(r,c,_,p,d,h){return i(),t("div",null,s)}var u=e(a,[["render",n]]);export{f as __pageData,u as default};

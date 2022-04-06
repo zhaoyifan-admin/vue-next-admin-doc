@@ -1,0 +1,1 @@
+import{_ as n,y as s,x as e,W as t}from"./plugin-vue_export-helper.a7b2d798.js";const b='{"title":"eslint","description":"","frontmatter":{},"relativePath":"home/eslint/index.md","lastUpdated":1642591961000}',o={},a=t("",24),p=[a];function c(l,r,i,u,d,k){return e(),s("div",null,p)}var h=n(o,[["render",c]]);export{b as __pageData,h as default};
